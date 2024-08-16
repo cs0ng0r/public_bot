@@ -11,9 +11,9 @@ class Reddit(commands.Cog):
         self.bot = bot
         # https://www.reddit.com/prefs/apps oldalon tudjátok létrehozni a saját alkalmazásotokat
         self.reddit = praw.Reddit(
-            client_id='uPBUBr2k-SNccfkPNZvAcQ',
-            client_secret='RgsP2O5MRWQp96vPNDyU99NI9kNHNA',
-            user_agent='script:memek:v1.0 (by /u/turbo2007hun)')
+            client_id='',
+            client_secret='',
+            user_agent='')
 
     @commands.Cog.listener()
     async def on_ready(self):
