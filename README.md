@@ -56,6 +56,8 @@ A következő lépések segítenek abban, hogy telepítsd a szükséges csomagok
 
 Miután a botod sikeresen elindult, megjelenik online a Discord szervereden.
 
+A memes.py cogon belül használnotok kell a Reddit API-t, a cogon belül mellékeltem a linket hozzá.
+
 ### Hibakeresés
 
 Ha bármilyen hibát tapasztalsz a bot futtatása közben, győződj meg róla, hogy:
