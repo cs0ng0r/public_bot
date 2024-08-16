@@ -1,2 +1,5 @@
-# public_bot
-Publikus Discord Bot
+# Discord Bot
+Egy publikus Discord Bot egyszerűbb Community szerverekhez!
+
+
+
