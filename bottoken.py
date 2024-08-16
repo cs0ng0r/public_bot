@@ -1,0 +1,1 @@
+BOT_TOKEN = 'Discord Bot Token'
