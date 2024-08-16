@@ -1,6 +1,12 @@
 ## Discord Bot
 
-Egy Open Source projekt, melly
+Egy Open Source projekt, melyhez nyugodtan közreműködhettek, csak nyissatok egy PR-t ha valamit hozzá szeretnétek adni.
+
+Eddig az alábbiakat tartalmazza:
+- Join - Leave
+- Meme (Reddit API-t használ)
+- 2 Minigame (KPÓ és BJ)
+- Autoreakció üzenetekre adott csatornában
 
 ### Követelmények
 
